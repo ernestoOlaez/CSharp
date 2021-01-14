@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>CSharp.CodesFromWeb.FizzBuzz.FizzBuzz</StartupObject>
+    <StartupObject>CSharp.CodesFromWeb.SolveMeFirst.SolveMeFirst</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
