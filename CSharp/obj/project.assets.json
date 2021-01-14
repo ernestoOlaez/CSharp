@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\olaez\\.nuget\\packages\\": {}
+    "C:\\Users\\Azuce\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\olaez\\Source\\Repos\\CSharp\\CSharp\\CSharp.csproj",
+      "projectUniqueName": "C:\\Users\\Azuce\\Source\\Repos\\ernestoOlaez\\CSharp\\CSharp\\CSharp.csproj",
       "projectName": "CSharp",
-      "projectPath": "C:\\Users\\olaez\\Source\\Repos\\CSharp\\CSharp\\CSharp.csproj",
-      "packagesPath": "C:\\Users\\olaez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\olaez\\Source\\Repos\\CSharp\\CSharp\\obj\\",
+      "projectPath": "C:\\Users\\Azuce\\Source\\Repos\\ernestoOlaez\\CSharp\\CSharp\\CSharp.csproj",
+      "packagesPath": "C:\\Users\\Azuce\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Azuce\\Source\\Repos\\ernestoOlaez\\CSharp\\CSharp\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\olaez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Azuce\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
