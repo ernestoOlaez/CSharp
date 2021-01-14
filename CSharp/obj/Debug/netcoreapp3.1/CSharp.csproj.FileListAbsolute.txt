@@ -24,3 +24,16 @@ C:\Users\Azuce\Source\Repos\ernestoOlaez\CSharp\CSharp\obj\Debug\netcoreapp3.1\C
 C:\Users\Azuce\Source\Repos\ernestoOlaez\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.dll
 C:\Users\Azuce\Source\Repos\ernestoOlaez\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.pdb
 C:\Users\Azuce\Source\Repos\ernestoOlaez\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.genruntimeconfig.cache
+C:\Users\olaez\Source\Repos\ernestoOlaez\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.exe
+C:\Users\olaez\Source\Repos\ernestoOlaez\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.deps.json
+C:\Users\olaez\Source\Repos\ernestoOlaez\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.runtimeconfig.json
+C:\Users\olaez\Source\Repos\ernestoOlaez\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.runtimeconfig.dev.json
+C:\Users\olaez\Source\Repos\ernestoOlaez\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.dll
+C:\Users\olaez\Source\Repos\ernestoOlaez\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.pdb
+C:\Users\olaez\Source\Repos\ernestoOlaez\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.csprojAssemblyReference.cache
+C:\Users\olaez\Source\Repos\ernestoOlaez\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.AssemblyInfoInputs.cache
+C:\Users\olaez\Source\Repos\ernestoOlaez\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.AssemblyInfo.cs
+C:\Users\olaez\Source\Repos\ernestoOlaez\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\olaez\Source\Repos\ernestoOlaez\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.dll
+C:\Users\olaez\Source\Repos\ernestoOlaez\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.pdb
+C:\Users\olaez\Source\Repos\ernestoOlaez\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.genruntimeconfig.cache
