@@ -8,6 +8,7 @@ namespace CSharp.CodesFromWeb.MachineCash
     {
         static void Main(string[] args)
         {
+            //This is a new Line From Stacy PC
             Console.WriteLine("Inser the amount to change:");
             int amount = Convert.ToInt32(Console.ReadLine());
 
