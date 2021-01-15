@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <Folder Include="Chapter1\" />
+    <Folder Include="CodesFromWeb\MachineCash\" />
   </ItemGroup>
 
 </Project>
